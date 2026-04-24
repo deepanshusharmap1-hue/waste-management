@@ -39,7 +39,7 @@ This website showcases the problem, solution, and mission of the foundation.
 - ✅ Scroll animations (Intersection Observer)
 - ✅ Interactive contact form (frontend)
 - ✅ Clean UI with reusable styles
-- ✅ Optimized layout and typography
+- ✅ Optimized layout and typography.
 
 ---
 
